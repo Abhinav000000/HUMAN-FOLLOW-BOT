@@ -1,12 +1,18 @@
 Components Used:
 
-Arduino UNO X 1
-IR Sensor X 3
-Ultrasonic Sensor X 1
-12V geared Motor X 2
-Breadboard X 1
-Castor Wheel X 1
-Metal Chasis X 1
-Wheels X 2
-9V Battery X 1
-Misc.(Jumper wires, tapes, basic tools, etc.)
+Arduino UNO, 
+IR Sensor
+Ultrasonic Sensor,
+12V geared Motor,
+Breadboard,
+Castor Wheel,
+Metal Chasis,
+Wheels,
+9V Battery,
+Jumper wires
+
+PROCEDURE-
+  1)Connect all components and place 2 ir sensor and 1 ultrasonic sensor at the front and 1 ir sensor at the back.
+  2)upload the code and power the components.
+ 
+  Your project is ready
